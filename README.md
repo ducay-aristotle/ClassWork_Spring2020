@@ -1,7 +1,7 @@
 # ClassWork_Spring2020
 A collection of course work using the Java language
 
-***At the time of writing this I will have completed my sophomore year at Central Washington University in the year of 2020***
+***At the time of writing this I will have completed my sophomore spring quarter at Central Washington University in the year of 2020***
 
 **Inside the CS110 folder is a collection of works when attending Central Washington University.
 The assignments that I had to go through involve using if/if else/if else if/for()/while() and Switch Case.
