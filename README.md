@@ -17,4 +17,4 @@ These projects include:**
 
 **Prior to using Java I have experience with using C# to work in the Unity Engine. While using unity I have made a total of 2 personal games and 1 personal group game using the Unreal Engine. A practice exercise of sorts to get me a bit more familiar with using C# in the Unity engine and using blueprints within the Unreal Engine. I also have experience using Unreal Engine's blueprinting system.**
 
-**Added Some Python assignments, showing a litle fundamental experience**
+**Added Some Python assignments, showing a little fundamental experience**
